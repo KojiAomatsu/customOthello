@@ -1,2 +1,4 @@
 .secret
 .build/
+/dist/
+/node_modules/
