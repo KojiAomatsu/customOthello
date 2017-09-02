@@ -2,10 +2,40 @@
   "autoPin": true,
   "pins": [
     {
+      "package": "Bits",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/bits.git",
+      "version": "1.1.0"
+    },
+    {
+      "package": "Bridging",
+      "reason": null,
+      "repositoryURL": "https://github.com/IBM-Swift/Bridging.git",
+      "version": "1.7.1"
+    },
+    {
       "package": "CCurl",
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/CCurl.git",
       "version": "0.4.0"
+    },
+    {
+      "package": "Core",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/core.git",
+      "version": "2.1.2"
+    },
+    {
+      "package": "Debugging",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/debugging.git",
+      "version": "1.1.0"
+    },
+    {
+      "package": "Fluent",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/fluent.git",
+      "version": "2.3.0"
     },
     {
       "package": "HeliumLogger",
@@ -36,6 +66,30 @@
       "reason": null,
       "repositoryURL": "https://github.com/IBM-Swift/LoggerAPI.git",
       "version": "1.7.1"
+    },
+    {
+      "package": "Mustache",
+      "reason": null,
+      "repositoryURL": "https://github.com/IBM-Swift/GRMustache.swift.git",
+      "version": "1.7.2"
+    },
+    {
+      "package": "Node",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/node.git",
+      "version": "2.1.1"
+    },
+    {
+      "package": "Random",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/random.git",
+      "version": "1.2.0"
+    },
+    {
+      "package": "SQLite",
+      "reason": null,
+      "repositoryURL": "https://github.com/vapor/sqlite.git",
+      "version": "2.1.0"
     },
     {
       "package": "SSLService",
